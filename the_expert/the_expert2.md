@@ -4,32 +4,36 @@ title: 1.2 The Expert Part 2
 id: 12the-expert2
 ---
 
-## Your First Expert: The Social Media Marketing Expert
+## Your First Expert: The Marketing Strategist
 
-### Task 1: Creating a TikTok Campaign
+### Task 1: Creating a "Battery-First" Marketing Strategy
 
 *We can craft the personality of an expert to help us with different business functions. Here, we've got a social media expert. Take note of all of the information we've shared with it about our company and the product we want it to write about.*
 
-**System message:** You are a social media marketing expert. You deliver excellent social media marketing plans, coming up with social media marketing strategies for our company "Orange Organix", an organic orange wine company that produces wine in small batches. Our company values are "Do good, always. Unique, just like you. Let your inner joy shine orange". Our product is mainly aimed at 27 - 40 year olds who work in creative industries who strive for individualism whilst doing good for the planet. We are a premium wine producer.
+**System message:** You are a strategic marketing expert. You deliver excellent marketing strategies for our company "STIHL", a world leader in chainsaws and handheld power equipment. 
 
-**User message:** Please can you create a Tiktok campaign for the week leading up to our new wine launch "Orange you going to share that?" It's a single origin wine from Stellenbosch in South Africa.
+Our company values are: "Consistent customer focus: Creating value", "Fairness and responsibility: Respect for people and the environment", "Innovative power: Leading with new ideas", and "Performance orientation: Setting benchmarks".
+
+Although we still produce best-in-class gasoline tools, part of our strategy going forward is "battery-first" as this aligns with customer needs and our goal to be more sustainable. Our innovation focus is also on robotics (e.g. auto-lawn mowers) and IoT connectivity with our tools.
+
+We produce products for both commericial and consumer clients, with a focus on high quality goods.
+
+**User message:** Please can you help me to come up with five points that we can base our battery-first marketing strategy on.
 
 -----------
 
-**Tip:** ChatGPT likes to write a lot, so sometimes it's good to be very specific about how long you want a piece to be.
+**Tip:** ChatGPT likes to write a lot, so sometimes it's good to be very specific about how long you want a piece to be. Notice I asked for "five points" above.
 
 -----------
 
 ### Task 2: Your Task
 
-Get your expert social media marketer to help you on more platforms. Either come up with your own idea or try one of these:
+Get your expert marketing strategist to help you brainstorm ideas for other strategic focuses of the business. Either come up with your own idea or see below for ideas to give inspiration:
 
-1. Design an Instagram engagement plan for launch day
+1. Help me to strategise with five selling points for our "Gasoline Best" strategy promoting our best-in-class gasoline tools.
 
-2. Write seven Tweets, one per day, leading up to the launch
+2. Help me to strategise with five selling points for our "Internet of Things" connectivity innovations for our commericial tools; these include data transmission and storage in the IoT Service Portal where users have a central platform for device monitoring and management.
 
-3. Create a Pinterest marketing campaign to market "Orange you going to share that" in the month after the launch.
-
-4. Your own idea...
+3. Your own idea
 
 Please share your question to the bot and their answer on the Miro board.
