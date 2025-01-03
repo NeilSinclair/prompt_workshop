@@ -12,38 +12,30 @@ id: 32the-researcher
 
 **You must also enable file search**
 
-Please create a new assistant and then download the additional data for this task here: [Micron Report](../../files/Micron%20Technology,%20Inc.%20Reports%20Results%20for%20the%20Fourth%20Quarter%20and%20Full%20Year%20of%20Fiscal%202024.pdf){:target="_blank"}
+Please create a new assistant and then download the additional data for this task here: 
+
+- [STIHL Review 2023](../../files/STIHL_AR_2023_EN_AnnualReview.pdf){:target="_blank"}
+
+- [STIHL Review 2022](../../files/STIHL_AR_2022_EN_AnnualReview.pdf){:target="_blank"}
 
 -------------
 
 ### Task 1: Uploaded Document Overview
 
-**System message:** [Leave Blank]
+**System message:** You are a helpful assistant
 
-**User message:** Looking at the attached document does the company's financial growth look sustainable and robust? Why yes or no?
-
---------------
-
-### Task 2: Doing Computations
-
-*We can improve our results by asking our bot to work in steps, just like we would work as humans*
-
-**System message:** [Leave Blank]
-
-**User message:** Using that attached document please calculate the ratio of profit to capex. Please think through this step by step.
+**User message:** Looking at the attached documents providing a review for 2022 and 2023, can you give a summary of each year and what's changed between the two years?
 
 --------------
 
 ### Task 3: Your Task
 
-Start a new assistant and upload this document: [Goldman Sachs Report](../../files/Goldman%20Sach%20AI%20Report%202024.pdf){:target="_blank"}. 
+Start a new assistant and upload this document: [Employee Satisfaction Report](../../files/employee_satisfaction_report.docx){:target="_blank"}.
 
-And answer this question: Is Goldman Sachs positive or negative about the impact of the AI boom? 
+Using this report, please identify first the top drivers of employee satisfaction and unhappiness at the company. In a second step step, get your assistant to come up with a set of suggestions for targetting the main issues.
 
-You can customise the answer to your needs if you want by adding extra information to the question, for example:
+Tips and suggestions:
 
-- I want you to focus on sharing and comparing the key figures in the report that highlight the positive and negative aspects. Then I want you to come to your own conclusion.
+- You can give your assistant here a personality, such as an "Organisational design expert"
 
-- I want you to share quotes and references for people in the report on each side of the debate.
-
-- I want you to summarise this answer in 4 bullet points, 2 each for positive and negative points of view.
+- Asking your assistant to think through this in two steps like a human would - first do step 1 and then do step 2 - can lead to better results
