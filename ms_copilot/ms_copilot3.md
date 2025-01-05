@@ -4,24 +4,12 @@ title: 4.3 Microsoft Copilot Part 3
 id: 43ms-copilot3
 ---
 
-## The Microsoft Copilo: Using Microsoft Copilot for your documents
+## The Microsoft Copilot: Interacting with your Emails
 
 ### Task 1
 
 *You can give documents to MS CoPilot*
 
-Ask Copilot to look through emails
+We can ask Microsoft 365 CoPilot to look through the documents that we have on our Sharepoint, *as well as our Emails*. 
 
-**User message:** ...
-
----------
-
-### WARNING! 
-
-Ask Copilot about what's in the documents in the email
-
----------
-
-### Task 2: Your Task
-
-???
+**User message:** Please can you look at the messages from Neil at diconium at the iMow. Can you summarise our conversation for me?

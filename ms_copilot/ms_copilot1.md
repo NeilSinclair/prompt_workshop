@@ -8,12 +8,19 @@ id: 41ms-copilot1
 
 ### Task 1
 
-*With Microsoft Copilot 365, your can do quick internet research*
+*With Microsoft Copilot 365, your can do quick internet research if you turn "Web Search" on*
 
-**User message:** Please go online and get me 10 negative reviews specifically of STIHL iMow robotic lawnmowers
+**User message:** Please can you pull the top 10 negative reviews for the STIHL iMow RMI 632 PC? This is in preparation for a marketing meeting I have soon.
+
+---------
+
+**Tip:** This isn't a replacement for in-depth research, but is good for starting one off and pointing one to issues and sources for deeper investigation.
 
 ---------
 
 ### Task 2: Your Task
 
-Use MSCopilot to compare the iMow with the main competitors on the market.
+
+**User message:**  Please can you compare the STIHL iMow RMI 632 PC with `insert your own comparison here`, or 
+
+- you can use: Husqvarna Automower 405x and the Honda Miimo HRM 3000?

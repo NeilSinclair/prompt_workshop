@@ -10,8 +10,8 @@ id: 44ms-copilot4
 
 *You can use MS Copilot to help Co-create Content*
 
-Open a new document and get Copilot to help you generate content
+Open a new document and get Copilot to help you generate content.
 
-**User message:** ...
+**User message:** Our R&D team has just developed a new battery that lasts 24 hours and charges in 5 minutes. Can you help me to come up with a press release for this?
 
 ---------
