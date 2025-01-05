@@ -44,6 +44,10 @@ Production in the company is at it's lowest ever. I think we have a major proble
 
 -----------
 
+**Tip:** You can also ask your assistant to check your email or document to see if there are any mistakes - and to correct them.
+
+-----------
+
 ### Task 3: Your Task
 
 Get your assistant to write an email for you based on a few points. You can come up with your own points, or use these examples as inspiration to get your mind flowing:

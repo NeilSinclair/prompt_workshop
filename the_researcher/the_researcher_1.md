@@ -4,65 +4,42 @@ title: 3.1 The Researcher Part 1
 id: 31the-researcher
 ---
 
-## The Researcher: Creating A Quick Summary
+## The Researcher: From Insights to Actions with PDFs
 
-*Sometimes we just need the key points from a document. You can feed your bot a document and ask it to summarise it for.*
+*We're going to upload a PDF and then ask the bot questions about it. First we upload the document and then query it.*
+
+**For some reason the streaming doesn't work so well with documents, so we're going to turn it off for now.**
+
+**You must also enable file search**
+
+Please create a new assistant and then download the additional data for this task here: 
+
+- [STIHL Review 2023](../../files/STIHL_AR_2023_EN_AnnualReview.pdf){:target="_blank"}
+
+- [STIHL Review 2022](../../files/STIHL_AR_2022_EN_AnnualReview.pdf){:target="_blank"}
 
 -------------
 
-### Task 1: Document Summary
+### Task 1: Uploaded Document Overview
 
-**System message:** [Leave Blank]
+**System message:** You are a helpful assistant
 
-**User message:** Below is an email which I recieved from an investment company. Please can you give me a summary of the main points in bullet form:
-
-US – Low financial stress means a recession remains unlikely
-
-By Nikita Hadskins
-
-Portfolio Manager
-
-Global uncertainty continues to rise, and a bar of gold is now worth more than one million dollars for the first time. On the US political front, incumbent President Joe Biden appealed for support for Kamala Harris at the Democratic National Convention, where Barack Obama updated his own campaign slogan to “Yes, she can.” Harris has unveiled her economic policies and will increase the US corporate tax rate to 28% if she wins the White House in November. While this is positive for the staggering US debt pile, it is unfavourable for US companies – but is still below the 35% tax rate that was in place before the tax reduction policies Donald Trump introduced in his first term. Harris’s policies are generally perceived as less favourable to equities due to higher taxes and regulation. Harris and Trump are presently too close to call, so the presidential debate on 10 September should be insightful.
-
-
-Chair of the Federal Open Market Committee Jerome Powell confirmed the September rate cut in his Jackson Hole symposium speech. His speech was dovish relative to the July minutes, stating variously that “conditions are now less tight than just before the pandemic”, that it is “unlikely that the labour market will be a source of elevated inflationary pressures” and that the Fed “do not seek or welcome further cooling in labour market conditions.” Headline and core CPI eased for the fourth consecutive month in July. The three-month moving average continued to improve, reaching a three-and-a-half-year low. Unfortunately, “supercore” inflation (core services ex-shelter) reaccelerated in July, and shelter inflation grew 0.4% month-on-month from 0.2% in June. We thus remain in the higher-for-longer camp on the US. Growth is slowing to trend, but financial stress is often the cause of recessions – and financial stress in the US has been easing this year (based on the Kansas Fed Financial Stress Index).
+**User message:** Looking at the attached documents providing a review for 2022 and 2023, can you give a summary of each year and what's changed between the two years?
 
 --------------
 
-### Task 2: Specifiying the Summary Format
+**Tip:** You can also be specific about how you want the information, for example, give me a summary of **only three points** or give me a summary of only the points relating to international revenue.
 
-*We can also be specific with the bot about how we want it to give generate the text*.
+--------------
 
-**System message:** [Leave Blank]
+### Task 2: Your Task
 
-**User message:** Below is an email which I recieved from an investment company. Please can you give me a summary of the main points in two sentences.
+Start a new assistant and upload this document: [Employee Satisfaction Report](../../files/employee_satisfaction_report.docx){:target="_blank"}.
 
-US – Low financial stress means a recession remains unlikely
+Using this report, please identify first the top drivers of employee satisfaction and unhappiness at the company. In a second step step, get your assistant to come up with a set of suggestions for targetting the main issues.
 
-Sygnia		By Nikita Hadskins
+**Tips and suggestions:**
 
-Portfolio Manager
+- You can give your assistant here a personality, such as an "Organisational design expert"
 
-Global uncertainty continues to rise, and a bar of gold is now worth more than one million dollars for the first time. On the US political front, incumbent President Joe Biden appealed for support for Kamala Harris at the Democratic National Convention, where Barack Obama updated his own campaign slogan to “Yes, she can.” Harris has unveiled her economic policies and will increase the US corporate tax rate to 28% if she wins the White House in November. While this is positive for the staggering US debt pile, it is unfavourable for US companies – but is still below the 35% tax rate that was in place before the tax reduction policies Donald Trump introduced in his first term. Harris’s policies are generally perceived as less favourable to equities due to higher taxes and regulation. Harris and Trump are presently too close to call, so the presidential debate on 10 September should be insightful.
-
-
-Chair of the Federal Open Market Committee Jerome Powell confirmed the September rate cut in his Jackson Hole symposium speech. His speech was dovish relative to the July minutes, stating variously that “conditions are now less tight than just before the pandemic”, that it is “unlikely that the labour market will be a source of elevated inflationary pressures” and that the Fed “do not seek or welcome further cooling in labour market conditions.” Headline and core CPI eased for the fourth consecutive month in July. The three-month moving average continued to improve, reaching a three-and-a-half-year low. Unfortunately, “supercore” inflation (core services ex-shelter) reaccelerated in July, and shelter inflation grew 0.4% month-on-month from 0.2% in June. We thus remain in the higher-for-longer camp on the US. Growth is slowing to trend, but financial stress is often the cause of recessions – and financial stress in the US has been easing this year (based on the Kansas Fed Financial Stress Index).
-
-----------
-
-### Task 3: Your Task
-
-Edit the first part of the prompt so that you will summarise this short document in a way that is meaningful to you. You could, for example summarise:
-
-- The document in five points in German
-
-- Only the points related to inflation
-
-- The whole document in one sentence that a five year old would understand
-
-- Summarise the parts of the document that may be important for your operations manager
-
-Please paste your summary on the Miro board.
-
-
-
+- Asking your assistant to think through this in two steps like a human would - first do step 1 and then do step 2 - can lead to better results
