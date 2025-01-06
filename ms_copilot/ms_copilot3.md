@@ -12,4 +12,4 @@ id: 43ms-copilot3
 
 We can ask Microsoft 365 CoPilot to look through the documents that we have on our Sharepoint, *as well as our Emails*. 
 
-**User message:** Please can you look at the messages from Neil at diconium at the iMow. Can you summarise our conversation for me?
+**User message:** Please can you look at the messages from Neil at diconium about the iMow. Can you summarise our conversation for me?

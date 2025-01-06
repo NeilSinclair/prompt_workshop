@@ -18,7 +18,7 @@ id: 41ms-copilot1
 
 ---------
 
-### Task 2: Your Task
+### Task 2: Deeper Online Research
 
 
 **User message:**  Please can you compare the STIHL iMow RMI 632 PC with `insert your own comparison here`, or 

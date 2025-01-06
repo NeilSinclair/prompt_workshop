@@ -34,7 +34,14 @@ We produce products for both commercial and consumer clients, with a focus on hi
 
 Please create a new assistant and then download the additional data for this task here: 
 
-- [Fraunhofer Battery Recycling Report](../../files/Fraunhofer_battery_recycling.docx){:target="_blank"}
+- [Cyber Security and IoT devices](../../files/cybersecurity_and_iot_devices.docx){:target="_blank"}
+
+This document outlines new regulatory requirements for IoT devices under the EU's Cyber Resilience Act, revised Product Liability Directive, and AI Act, focusing on enhanced cybersecurity standards and expanded liabilities for manufacturers. It stresses the importance of compliance with these regulations to avoid significant penalties.
+
+Please get your assistant to draft an email to your head of legal focusing on an issue of your choice. For inspiration, you could ask it to write an email, referencing the document and focusing on:
+
+- ....
 
 **System message:** *Same as above, just add your name in there instead of mine*
 
+**User message:** Your message here
