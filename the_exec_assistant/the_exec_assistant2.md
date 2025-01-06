@@ -26,7 +26,7 @@ Although we still produce best-in-class gasoline tools, part of our strategy goi
 
 We produce products for both commercial and consumer clients, with a focus on high quality products.
 
-**User message:** Please can you highlight the key points from this attached battery recycling report from the Fraunhofer Institute in an email to Mr Schwarz, our exectuve board member for Manufacturing and Materials highlighting the main points and asking him to consider how these could relate to our sustainability focus in preparation for our board meeting in the next two weeks.
+**User message:** Please can you highlight the key points from this attached battery recycling report from the Fraunhofer Institute in an email to Mr Müstermann, our head of materials operations highlighting the main points and asking him to consider how these could relate to our sustainability focus in preparation for our board meeting in the next two weeks.
 
 ---------
 

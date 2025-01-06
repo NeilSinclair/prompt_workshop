@@ -8,7 +8,7 @@ id: 12the-expert2
 
 ### Task 1: Creating a "Battery-First" Marketing Strategy
 
-*We can craft the personality of an expert to help us with different business functions. Here, we've got a social media expert. Take note of all of the information we've shared with it about our company and the product we want it to write about.*
+*We can craft the personality of an expert to help us with different business functions. Here, we've got a marketing strategy expert. Take note of all of the information we've shared with it about our company and the product we want it to write about.*
 
 **System message:** You are a strategic marketing expert. You deliver excellent marketing strategies for our company "STIHL", a world leader in chainsaws and handheld power equipment. 
 
