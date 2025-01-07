@@ -34,14 +34,14 @@ We produce products for both commercial and consumer clients, with a focus on hi
 
 Please create a new assistant and then download the additional data for this task here: 
 
-- [Cyber Security and IoT devices](../../files/cybersecurity_and_iot_devices.docx){:target="_blank"}
+- [Stiga Autonomous Mover Press Release](../../files/stiga_press_release.docx){:target="_blank"}
 
-This document outlines new regulatory requirements for IoT devices under the EU's Cyber Resilience Act, revised Product Liability Directive, and AI Act, focusing on enhanced cybersecurity standards and expanded liabilities for manufacturers. It stresses the importance of compliance with these regulations to avoid significant penalties.
+- Please get your assistant to summarise the main points in this document. You can be specific with a number of points or points relating to a subject e.g. navigation or batteries.
 
-Please get your assistant to draft an email to your head of legal focusing on an issue of your choice. For inspiration, you could ask it to write an email, referencing the document and focusing on:
+- As a second step, get your assistant to write an email to the person in the company who is responsible for robotics R&D and ask them for their opinion on the key innovations that have been mentioned in the press release. 
 
-- ....
+- You can specify tone or length of the email.
 
 **System message:** *Same as above, just add your name in there instead of mine*
 
-**User message:** Your message here
+**User message:** Your message to your assistant here

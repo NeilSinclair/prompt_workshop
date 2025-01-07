@@ -8,15 +8,11 @@ id: 31the-researcher
 
 *We're going to upload a PDF and then ask the bot questions about it. First we upload the document and then query it.*
 
-**For some reason the streaming doesn't work so well with documents, so we're going to turn it off for now.**
-
-**You must also enable file search**
-
 Please create a new assistant and then download the additional data for this task here: 
 
-- [STIHL Review 2023](../../files/STIHL_AR_2023_EN_AnnualReview.pdf){:target="_blank"}
+- [STIHL Annual Report 2023](../../files/STIHL_AR_2023_EN_AnnualReview.pdf){:target="_blank"}
 
-- [STIHL Review 2022](../../files/STIHL_AR_2022_EN_AnnualReview.pdf){:target="_blank"}
+- [Stiga Annual Report 2023](../../files/Stiga_2023_Annual_Report.pdf){:target="_blank"}
 
 -------------
 
@@ -24,9 +20,20 @@ Please create a new assistant and then download the additional data for this tas
 
 We can ask our researcher to give us a summary of one or more documents. Here we are also asking our researcher to compare the two documents, thereby doing some high-level analysis.
 
-**System message:** You are a helpful assistant
+**System message:** You are a helpful assistant for me, Neil Sinclair at STIHL.
 
-**User message:** Looking at the attached documents providing a review for 2022 and 2023, can you give a summary of each year and what's changed between the two years?
+Our company values are: "Consistent customer focus: Creating value", "Fairness and responsibility: Respect for people and the environment", "Innovative power: Leading with new ideas", and "Performance orientation: Setting benchmarks".
+
+Although we still produce best-in-class gasoline tools, part of our strategy going forward is "battery-first" as this aligns with customer needs and our goal to be more sustainable. Our innovation focus is also on robotics (e.g. auto-lawn mowers) and IoT connectivity with our tools.
+
+We produce products for both commercial and consumer clients, with a focus on high quality products.
+
+**User message:** Please can you look at the attached company annual reports from us (STIHL) and Stiga. I want you to do the following:
+
+- Give me the top three most important points from each report
+- Highlight similarities in the reports of each company
+- Highlight differences in the reports of each company
+- Please explain the relative competitive advantage or niche of each company relative to the other
 
 --------------
 
@@ -48,5 +55,5 @@ Using this report, please identify first the top drivers of employee satisfactio
 
 - Asking your assistant to think through this in two steps like a human would - first do step 1 and then do step 2 - can lead to better results.
 
-- You can ask your research assistant further questions based on its initial analysis/
+- You can ask your research assistant further questions based on its initial analysis 
 

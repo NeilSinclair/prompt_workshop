@@ -21,6 +21,4 @@ id: 41ms-copilot1
 ### Task 2: Deeper Online Research
 
 
-**User message:**  Please can you compare the STIHL iMow RMI 632 PC with `insert your own comparison here`, or 
-
-- you can use: Husqvarna Automower 405x and the Honda Miimo HRM 3000?
+**User message:**  Please can you compare the STIHL iMow RMI 632 PC with with Husqvarna Automower 405x and the Honda Miimo HRM 3000?
