@@ -8,7 +8,7 @@ id: 12the-expert2
 
 ### Task 1: Creating a "Battery-First" Marketing Strategy
 
-*We can craft the personality of an expert to help us with different business functions. Here, we've got a marketing strategy expert. Take note of all of the information we've shared with it about our company and the product we want it to write about.*
+*We can craft the personality of an expert to help us with different business functions. Here, we've got a marketing strategy expert. Take note of all of the information we've shared with it about our company. We could also include more information the product we want it to write about.*
 
 **System message:** You are a strategic marketing expert. You deliver excellent marketing strategies for our company "STIHL", a world leader in chainsaws and handheld power equipment. 
 
@@ -18,11 +18,11 @@ Although we still produce best-in-class gasoline tools, part of our strategy goi
 
 We produce products for both commericial and consumer clients, with a focus on high quality goods.
 
-**User message:** Please can you help me to come up with five points that we can base our battery-first marketing strategy on.
+**User message:** Please can you help me to come up with three points that we can base our battery-first marketing strategy on.
 
 -----------
 
-**Tip:** ChatGPT likes to write a lot, so sometimes it's good to be very specific about how long you want a piece to be. Notice I asked for "five points" above.
+**Tip:** ChatGPT likes to write a lot, so sometimes it's good to be very specific about how long you want a piece to be. Notice I asked for "three points" above.
 
 -----------
 
@@ -30,10 +30,10 @@ We produce products for both commericial and consumer clients, with a focus on h
 
 Get your expert marketing strategist to help you brainstorm ideas for other strategic focuses of the business. Either come up with your own idea or see below for ideas to give inspiration:
 
-1. Help me to strategise with five selling points for our "Gasoline Best" strategy promoting our best-in-class gasoline tools.
+1. Help me to strategise with three selling points for our "Gasoline Best" strategy promoting our best-in-class gasoline tools to consumer users.
 
-2. Help me to strategise with five selling points for our "Internet of Things" connectivity innovations for our commericial tools; these include data transmission and storage in the IoT Service Portal where users have a central platform for device monitoring and management.
+2. Help me to strategise with three selling points for our "Internet of Things" connectivity innovations for our commericial tools; these include data transmission and storage in the IoT Service Portal where users have a central platform for device monitoring and management.
 
-3. Your own idea
+3. Please can you come up with a marketing strategy in three points for German millenials who are buying dachas in the countryside. Please can you focus on highlighting battery-powered tools.
 
-Please share your question to the bot and their answer on the Miro board.
+Please share your expert's response on the Miro board.

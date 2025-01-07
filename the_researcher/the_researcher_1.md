@@ -6,8 +6,6 @@ id: 31the-researcher
 
 ## The Researcher: From Insights to Actions with PDFs
 
-*We're going to upload a PDF and then ask the bot questions about it. First we upload the document and then query it.*
-
 Please create a new assistant and then download the additional data for this task here: 
 
 - [STIHL Annual Report 2023](../../files/STIHL_AR_2023_EN_AnnualReview.pdf){:target="_blank"}
@@ -33,11 +31,11 @@ We produce products for both commercial and consumer clients, with a focus on hi
 - Give me the top three most important points from each report
 - Highlight similarities in the reports of each company
 - Highlight differences in the reports of each company
-- Please explain the relative competitive advantage or niche of each company relative to the other
+- Please explain the competitive advantage or niche of each company relative to the other
 
 --------------
 
-**Tip:** You can also be specific about how you want the information, for example, give me a summary of **only three points** or give me a summary of **only the points relating to international revenue**.
+**Tip:** You can also be specific about how you want the information, for example, give me a analysis of **only three points** or give me a analysis of **only the points relating to international revenue**.
 
 --------------
 

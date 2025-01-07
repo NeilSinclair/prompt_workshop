@@ -12,9 +12,7 @@ id: 22the-executive-assistant2
 
 **You must also enable file search**
 
-Please create a new assistant and then download the additional data for this task here: 
-
-- [Fraunhofer Battery Recycling Report](../../files/Fraunhofer_battery_recycling.docx){:target="_blank"}
+Please create a new assistant and then download the additional data for this task here: [Fraunhofer Battery Recycling Report](../../files/Fraunhofer_battery_recycling.docx){:target="_blank"}
 
 ### Task 1
 
@@ -26,15 +24,15 @@ Although we still produce best-in-class gasoline tools, part of our strategy goi
 
 We produce products for both commercial and consumer clients, with a focus on high quality products.
 
-**User message:** Please can you highlight the key points from this attached battery recycling report from the Fraunhofer Institute in an email to Mr Müstermann, our head of materials operations highlighting the main points and asking him to consider how these could relate to our sustainability focus in preparation for our board meeting in the next two weeks.
+**User message:** Please can you highlight the top three key points from this attached battery recycling report from the Fraunhofer Institute and how they relate to our strategic focus.
+
+**User message:** Based on these points, please can you write an email to Mr Müstermann, our head of materials' operations highlighting the main points and, for each point, asking him to consider how these could relate to our sustainability focus in preparation for our board meeting in the next two weeks.
 
 ---------
 
 ### Task 2: Your Task
 
-Please create a new assistant and then download the additional data for this task here: 
-
-- [Stiga Autonomous Mover Press Release](../../files/stiga_press_release.docx){:target="_blank"}
+Please create a new assistant and then download the additional data for this task here: [Stiga Autonomous Mover Press Release](../../files/stiga_press_release.docx){:target="_blank"}
 
 - Please get your assistant to summarise the main points in this document. You can be specific with a number of points or points relating to a subject e.g. navigation or batteries.
 

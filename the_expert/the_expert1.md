@@ -31,7 +31,7 @@ id: 11the-expert1
 
 ### Task 3: Your Task
 
-Think of another personality and ask them a question. Paste the personality (system message) and its reply on the Miro board. For inspiration you could try an idea like: 
+Think of another personality and ask them a question. Paste the reply from your bot on the Miro board. You can either come up with your own idea, or for inspiration you could try an idea like: 
 
 1. You are a wise philosopher from 1850 and speak in two sentence rhymes
 
