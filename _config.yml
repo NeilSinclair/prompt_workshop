@@ -2,7 +2,7 @@
 title:               diconium STIHL AI Teach-In
 tagline:             ''
 description:         'Modules in the Workshop'
-baseurl:             ''
+baseurl:             'prompt_workshop'
 paginate:            5
 permalink:           pretty
 
