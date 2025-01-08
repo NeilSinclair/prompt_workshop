@@ -34,7 +34,7 @@ We produce products for both commercial and consumer clients, with a focus on hi
 
 Please create a new assistant and then download the additional data for this task here: [Stiga Autonomous Mover Press Release](../../files/stiga_press_release.docx){:target="_blank"}
 
-- Please get your assistant to summarise the main points in this document. You can be specific with a number of points or points relating to a subject e.g. navigation or batteries.
+- Please get your assistant to summarise the main points in this document. You can be specific with the number of points you want or with specifying points relating to a subject e.g. navigation or batteries.
 
 - As a second step, get your assistant to write an email to the person in the company who is responsible for robotics R&D and ask them for their opinion on the key innovations that have been mentioned in the press release. 
 
