@@ -32,14 +32,15 @@ We produce products for both commercial and consumer clients, with a focus on hi
 
 ### Task 2: Your Task
 
-Please create a new assistant and then download the additional data for this task here: [Stiga Autonomous Mover Press Release](../../files/stiga_press_release.docx){:target="_blank"}
+In MS Teams you can transcribe meetings. You can then give the meeting transcription to your assistant to create the meeting minutes and write an email to participants indicating their agreed upon tasks. *Note, you don't require a system message here as no context is needed.*
 
-- Please get your assistant to summarise the main points in this document. You can be specific with the number of points you want or with specifying points relating to a subject e.g. navigation or batteries.
+Please create a new assistant and then download the additional data for this task here: [Meeting Transcription](../../files/data_product_factory_workshop_planning.docx){:target="_blank"}
 
-- As a second step, get your assistant to write an email to the person in the company who is responsible for robotics R&D and ask them for their opinion on the key innovations that have been mentioned in the press release. 
+- Please get your assistant to create the meeting minutes from this transcript, including next actions each participant needs to do.
 
-- You can specify tone or length of the email.
+- As a second step, please get your assistant to write an email to Robert highlighting his agreed upon tasks. Please also suggest a deadline for these tasks. 
 
-**System message:** *Same as above, just add your name in there instead of mine*
+
+**System message:** *Leave Blank*
 
 **User message:** Your message to your assistant here

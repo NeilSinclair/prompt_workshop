@@ -6,25 +6,33 @@ id: 31the-researcher
 
 ## The Researcher: From Insights to Actions with PDFs
 
+### Task 1: Uploaded Document Comparison #1
+
+Please create a new assistant and download the following report with information on the Stiga A3000 and the STIHL RMI 632 PC robotic mowers: - [Robotic mower report](../../files/stiga_a3000_stihl_RMI632.docx){:target="_blank"}
+
+We can get our assistant to compare information in documents to uncover insights.
+
+**System message:** You are a helpful research assistant for me, Neil Sinclair at STIHL.
+
+**User message:** Please can you compare the two mowers in the attached short research report. Please can you explain the relative advantages of each mower with respect to the other.
+
+-------------
+
+**Warning:** Beware of numerical calculations with ChatGPT. Often it's just better to do these yourself in Excel.
+
+--------------
+
+### Task 2: Uploaded Document Comparison #2
+
 Please create a new assistant and then download the additional data for this task here: 
 
 - [STIHL Annual Report 2023](../../files/STIHL_AR_2023_EN_AnnualReview.pdf){:target="_blank"}
 
 - [Stiga Annual Report 2023](../../files/Stiga_2023_Annual_Report.pdf){:target="_blank"}
 
--------------
-
-### Task 1: Uploaded Document Overview
-
 We can ask our researcher to give us a summary of one or more documents. Here we are also asking our researcher to compare the two documents, thereby doing some high-level analysis.
 
-**System message:** You are a helpful assistant for me, Neil Sinclair at STIHL.
-
-Our company values are: "Consistent customer focus: Creating value", "Fairness and responsibility: Respect for people and the environment", "Innovative power: Leading with new ideas", and "Performance orientation: Setting benchmarks".
-
-Although we still produce best-in-class gasoline tools, part of our strategy going forward is "battery-first" as this aligns with customer needs and our goal to be more sustainable. Our innovation focus is also on robotics (e.g. auto-lawn mowers) and IoT connectivity with our tools.
-
-We produce products for both commercial and consumer clients, with a focus on high quality products.
+**System message:** You are a helpful research assistant for me, Neil Sinclair at STIHL.
 
 **User message:** Please can you look at the attached company annual reports from us (STIHL) and Stiga. I want you to do the following:
 
@@ -39,7 +47,7 @@ We produce products for both commercial and consumer clients, with a focus on hi
 
 --------------
 
-### Task 2: Your Task
+### Task 3: Your Task
 
 Start a new assistant and upload this document: [Employee Satisfaction Report](../../files/employee_satisfaction_report.docx){:target="_blank"}.
 
@@ -47,7 +55,7 @@ Using this report, please identify first the top drivers of employee satisfactio
 
 **Tips and suggestions:**
 
-- You can give your research assistant here a personality, such as an "Organisational design expert".
+- You can give your research assistant here a new personality, such as an "Organisational design expert".
 
 - You can ask you researcher to, for example, prioritise the top 3 three points, and give reasons for its prioritisation.
 
