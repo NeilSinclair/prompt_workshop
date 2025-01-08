@@ -24,3 +24,14 @@ Our company values are: "Consistent customer focus: Creating value", "Fairness a
 Although we still produce best-in-class gasoline tools, part of our strategy going forward is "battery-first" as this aligns with customer needs and our goal to be more sustainable. Our innovation focus is also on robotics (e.g. auto-lawn mowers) and IoT connectivity with our tools.
 
 We produce products for both commercial and consumer clients, with a focus on high quality products.
+
+- We give it access to a Sharepoint folder
+
+**User Message:** Please llist the files you have access to
+
+**User message:** Please can you look at the attached company annual reports from us (STIHL) and Stiga. I want you to do the following:
+
+- Give me the top three most important points from each report
+- Highlight similarities in the reports of each company
+- Highlight differences in the reports of each company
+- Please explain the competitive advantage or niche of each company relative to the other
