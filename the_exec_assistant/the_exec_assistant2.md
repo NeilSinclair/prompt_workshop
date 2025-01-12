@@ -32,6 +32,10 @@ Based on these points, please can you write an email to Mr Müstermann, our head
 
 ---------
 
+**Important information:** In Bing Copilot, the file size limit is 1MB and only one file can be uploaded at at time.
+
+---------
+
 ### Task 2: Your Task
 
 In MS Teams you can transcribe meetings. You can then give the meeting transcription to your assistant to create the meeting minutes and write an email to participants indicating their agreed upon tasks. *Note, you don't require a system message here as no context is needed.*

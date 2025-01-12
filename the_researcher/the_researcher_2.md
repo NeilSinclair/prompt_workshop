@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 4.1 Microsoft Copilot Part 1
-id: 41ms-copilot1
+title: 3.2 The Researcher Part 2
+id: 32the-researcher
 ---
 
 ## Using Bing Copilot Online
