@@ -5,19 +5,15 @@ id: home
 
 ## Welcome to the STIHL AI Teach-In
 
-This website contains all of the content for the STIHL AI Teach-In on 21.01.2025. All of these examples will be run inside the **Assistants** area of the **OpenAI Playground**. If you get lost, please come back to this page (click on **Home** on the left) and then click on this link:
+This website contains all of the content for the STIHL AI Teach-In on 21.01.2025. The workshop is split into two components. In the first part we will work with examples in **Bing Copilot**. You can access the link here: 
 
-[OpenAI Assistants Playground](https://platform.openai.com/playground/assistants){:target="_blank"}
+[Bing Copilot](https://copilot.cloud.microsoft/){:target="_blank"}
 
-------------
+In the second part of the workshop, we will work with examples in **Microsoft 365 Copilot**. You can access the link here:
 
-## Test the Miro board
+[Microsoft 365 Coplit](https://www.microsoft365.com/chat?auth=2){:target="_blank"}
 
-*Copy this and paste the following sentence under the "Paste Your Test Here" rectangle on the Miro board. Just copy and paste the text as is:* 
-
-**Hey there! I'm on the Miro board!**
-
-[Link to Miro board](https://miro.com/app/board/uXjVLbkGLk4=/){:target="_blank"}
+If you get lost, please come back to this page (click on **Home** on the left) and then click on this link:
 
 ------------
 

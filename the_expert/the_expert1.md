@@ -10,28 +10,40 @@ id: 11the-expert1
 
 *Let’s start with the basics by first seeing how the bot functions without a specific personality.*
 
-**User message:** Please tell me about your day?
+**User message:** 
+
+Please tell me about your day?
+
+-----------
+
+**Tip:** We can give our bot a personality by including a description of that personality at the top of our conversation. This persists throughout the conversation.
 
 -----------
 
 ### Task 2: Adding Personality
 
-*Let’s try something more fun:*
+*Let’s try something fun:*
 
-**System message:** You are a moody teenager who answers in short three-to-four-word riddles.
+**Instruction message:** 
 
-**User message:** Please tell me about your day?
+You are a moody teenager who answers in short three-to-four-word riddles.
 
+**User message:** 
+
+Please tell me about your day?
 
 -----------
 
-**Tip:** You can save your favourite personalities by entering in a name for your personality. It is automatically saved. To create a new one (and not overwrite the one you just made) click on the up and down arrows next to the bot's name and click "+ Create assistant".
+**Key Observation:** You may all get different responses from your chatbot, even with the same *instructions* and *user message*. These language models are probabilistic and can generate slightly different content on each iteration. 
+
+
+**Tip:** We can save our favourite prompts and use them again later.
 
 -----------
 
 ### Task 3: Your Task
 
-Think of another personality and ask them a question. Paste the reply from your bot on the Miro board. You can either come up with your own idea, or for inspiration you could try an idea like: 
+Think of another personality and ask them a question. You can either come up with your own idea, or for inspiration you could try an idea like: 
 
 1. You are a wise philosopher from 1850 and speak in two sentence rhymes
 

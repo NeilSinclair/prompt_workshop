@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 4.4 Microsoft Copilot Part 4
-id: 44ms-copilot4
+title: 4.3 Microsoft Copilot Part 3
+id: 43ms-copilot4
 ---
 
 ## The Microsoft Copilot: Co-Creating Content
@@ -29,3 +29,7 @@ I'll open a new Word document and get Copilot to help generate content, **using 
 **User message:** Please generate a short piece of copy for our website highlighting all of the great features of the STIHL iMow RMI632. WITHOUT mentioning the competitor product, highlight the advantages our product has over the Stiga A3000.
 
 ---------
+
+### Your Task
+
+Work with Copilot to improve this content. For example, you can ask it to write in a different style, to target a different audience or to write in a different language.

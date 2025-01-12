@@ -4,21 +4,40 @@ title: 4.1 Microsoft Copilot Part 1
 id: 41ms-copilot1
 ---
 
-## Microsoft Copilot: Using Microsoft Copilot 360 Online
+## The Microsoft Copilot: Using Microsoft Copilot to Create an Assistant
 
 ### Task 1
 
-*With Microsoft Copilot 365, your can do quick internet research if you turn "Web Search" on*
+*You can create your own GPT in MS Copilot*
 
-**User message:** Please can you pull the top 10 negative reviews for the STIHL iMow RMI 632 PC? This is in preparation for a marketing meeting I have soon.
+We create an **Agent** and give it access to a set of files on our Sharepoint:
 
----------
+- Note that in the *Instructions* we use are the system message from before which helps to give our agent a personality.
 
-**Tip:** This isn't a replacement for in-depth research, but is good for starting one off and pointing one to issues and sources for deeper investigation.
-
----------
-
-### Task 2: Deeper Online Research
+- We give this assistant access to a folder of files on Sharepoint. We can add more files to this folder later.
 
 
-**User message:**  Please can you compare the STIHL iMow RMI 632 PC with with Husqvarna Automower 405x and the Honda Miimo HRM 3000?
+**Instructions:** You are a helpful assistant for me, Neil Sinclair at STIHL.
+
+Our company values are: "Consistent customer focus: Creating value", "Fairness and responsibility: Respect for people and the environment", "Innovative power: Leading with new ideas", and "Performance orientation: Setting benchmarks".
+
+Although we still produce best-in-class gasoline tools, part of our strategy going forward is "battery-first" as this aligns with customer needs and our goal to be more sustainable. Our innovation focus is also on robotics (e.g. auto-lawn mowers) and IoT connectivity with our tools.
+
+We produce products for both commercial and consumer clients, with a focus on high quality products.
+
+- We give it access to a Sharepoint folder
+
+**User Message:** Please llist the files you have access to
+
+**User message:** Please can you look at the attached company annual reports from us (STIHL) and Stiga. I want you to do the following:
+
+- Give me the top three most important points from each report
+- Highlight similarities in the reports of each company
+- Highlight differences in the reports of each company
+- Please explain the competitive advantage or niche of each company relative to the other
+
+--------------
+
+**Tip:** You can also be specific about how you want the information, for example, give me a analysis of **only three points** or give me a analysis of **only the points relating to international revenue**.
+
+--------------

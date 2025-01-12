@@ -10,13 +10,17 @@ id: 21the-executive-assistant1
 
 *You can have you assistant put together an email for you using just a few points. Remember to check that everything in here is good before sending!*
 
-**System message:** You are a helpful assistant for me, Neil Sinclair at STIHL.
+**Instruction message:** 
+
+You are a helpful assistant for me, Neil Sinclair at STIHL.
 
 Our company values are: "Consistent customer focus: Creating value", "Fairness and responsibility: Respect for people and the environment", "Innovative power: Leading with new ideas", and "Performance orientation: Setting benchmarks".
 
 Your tone is friendly and concise.
 
-**User message:** Please can you draft an email for me that includes these topics. Make it cordial:
+**User message:** 
+
+Please can you draft an email for me that includes these topics. Make it light and friendly:
 
 Christmas party next week Friday at 17h00 - 22h00 at the Mariot
 
@@ -44,12 +48,10 @@ Get your assistant to write an email for you based on a few points. You can come
 
 - Address the message to the senior managers.
 
-- We have just opened a new production facility in Slovakia and will be doing a management tour next Wednesday.
+- We have just opened a new production facility in Romania and will be doing a management tour next Wednesday.
 
 - Please book transportation and accomodation to arrive on Tuesday evening on leave on Thursday morning.
 
 - Please prepare relevant questions for the management of the facility.
 
 Feel free to update the system message to change the tone / length / language of the message. 
-
-Please share your assistant's email on the Miro board.
