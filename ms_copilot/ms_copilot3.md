@@ -18,7 +18,7 @@ Our R&D team has just developed a new battery that lasts 24 hours and charges in
 
 ---------
 
-**Warning:** Without some useful context, what is generated can incredibly generic.
+**Warning:** Without some useful context, what is generated is often *uselessly* generic.
 
 ---------
 

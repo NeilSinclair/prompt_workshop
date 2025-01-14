@@ -11,7 +11,7 @@ This website contains all of the content for the STIHL AI Teach-In on 21.01.2025
 
 In the second part of the workshop, we will work with examples in **Microsoft 365 Copilot**. You can access the link here:
 
-[Microsoft 365 Coplit](https://www.microsoft365.com/chat?auth=2){:target="_blank"}
+[Microsoft 365 Copilot](https://www.microsoft365.com/chat?auth=2){:target="_blank"}
 
 If you get lost, please come back to this page (click on **Home** on the left) and then click on this link:
 

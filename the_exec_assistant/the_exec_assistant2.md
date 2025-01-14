@@ -6,9 +6,9 @@ id: 22the-executive-assistant2
 
 ## The Executive Assistant: Working with Files
 
-*We're going to upload a PDF and then ask the bot questions about it. First we upload the document and then query it.*
+*We're going to upload a file and then ask the bot questions about it. First we upload the document and then query it.*
 
-Please create a new chat and then download the additional data for this task here: [Fraunhofer Battery Recycling Report](../../files/Fraunhofer_battery_recycling.docx){:target="_blank"}
+I will create a new chat and then add the additional data for this task which can be found here: [Fraunhofer Battery Recycling Report](../../files/Fraunhofer_battery_recycling.docx){:target="_blank"}
 
 ### Task 1
 
@@ -38,7 +38,7 @@ Based on these points, please can you write an email to Mr Müstermann, our head
 
 ### Task 2: Your Task
 
-In MS Teams you can transcribe meetings. You can then give the meeting transcription to your assistant to create the meeting minutes and write an email to participants indicating their agreed upon tasks. *Note, you don't require a system message here as no context is needed.*
+In MS Teams you can transcribe meetings. You can then give the meeting transcription to your assistant to create the meeting minutes and write an email to participants indicating their agreed upon tasks. *Note, you don't require an Instruction message here as no context is needed.*
 
 Please create a new chat and then download the additional data for this task here: [Meeting Transcription](../../files/data_product_factory_workshop_planning.docx){:target="_blank"}
 

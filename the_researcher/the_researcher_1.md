@@ -4,13 +4,13 @@ title: 3.1 The Researcher Part 1
 id: 31the-researcher
 ---
 
-## The Researcher: From Insights to Actions with PDFs
+## The Researcher: From Insights to Actions
 
 ### Task 1: Uploaded Document Comparison #1
 
-Please create a new chat and download the following report with information on the Stiga A3000 and the STIHL RMI 632 PC robotic mowers: - [Robotic mower report](../../files/stiga_a3000_stihl_RMI632.docx){:target="_blank"}
+I will create a new chat and add the following report with information on the Stiga A3000 and the STIHL RMI 632 PC robotic mowers: - [Robotic mower report](../../files/stiga_a3000_stihl_RMI632.docx){:target="_blank"}
 
-We can get our assistant to compare information in documents to uncover insights. Upload the document to the chat.
+We can get our assistant to compare information in documents to uncover insights. I start by uploading the document to the chat.
 
 **Instruction message:** 
 
@@ -22,9 +22,6 @@ Please can you compare the two mowers in the attached short research report. Ple
 
 -------------
 
-**Warning:** Beware of numerical calculations with ChatGPT. Often it's just better to do these yourself in Excel.
-
---------------
 
 ### Task 2: Your Task
 
@@ -36,9 +33,9 @@ Using this report, please identify first the top drivers of employee satisfactio
 
 - You can give your research assistant here a new personality, such as an "Organisational design expert".
 
-- You can ask you researcher to, for example, prioritise the top 3 three points, and give reasons for its prioritisation.
+- You can ask you assistant to, for example, prioritise the top 3 three points, and give reasons for its prioritisation.
 
-- Asking your assistant to think through this in two steps like a human would - first do step 1 and then do step 2 - can lead to better results.
+- Asking your assistant to think through this in two steps like a human would - first do step 1 and then do step 2 - this can lead to better results.
 
 - You can ask your research assistant further questions based on its initial analysis 
 

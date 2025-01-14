@@ -25,7 +25,23 @@ You can use the internet researcher to compare different models of your products
 
 **User message:**  
 
-Please can you compare the STIHL iMow RMI 632 PC with:
+Please go online and compare the STIHL iMow RMI 632 PC with:
 
-- Husqvarna Automower 405x and 
+- Husqvarna Automower 450X and 
 - the Honda Miimo HRM 3000?
+
+---------
+
+**Warning:** Can we trust the results? I had to get more specific with my search to make this work...
+
+Please go online and compare the STIHL iMow RMI 632 PC with: - Husqvarna Automower 450X and - the Honda Miimo HRM 3000? YOU MUST INCLUDE a reference for every piece of information you share. The RMI PC is NOT the same as the RMI P
+
+---------
+
+### Task 3: Your Task (Deeper Online Research)
+
+You can use the internet researcher to compare different models of your products with competitors. I've listed an example below, but you can try different products if you'd like. 
+
+**User message:**  
+
+Please go online and compare the `Product A` with `Product B`.

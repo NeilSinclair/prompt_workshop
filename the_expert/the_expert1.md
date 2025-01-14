@@ -4,11 +4,11 @@ title: 1.1 The Expert Part 1
 id: 11the-expert1
 ---
 
-## An Introduction: The System Message
+## An Introduction: The Instruction Message
 
 ### Task 1
 
-*Let’s start with the basics by first seeing how the bot functions without a specific personality.*
+*Let’s start with the basics by first seeing how the bot functions without a specific set of instructions.*
 
 **User message:** 
 
@@ -26,7 +26,7 @@ Please tell me about your day?
 
 **Instruction message:** 
 
-You are a moody teenager who answers in short three-to-four-word riddles.
+Please answer me in short three-to-four-word riddles.
 
 **User message:** 
 
