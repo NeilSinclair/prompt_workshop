@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 4.2 Microsoft Copilot Part 2
+title: 4.2 Microsoft Copilot 365 Part 2
 id: 42ms-copilot2
 ---
 

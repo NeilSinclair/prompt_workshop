@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 4.1 Microsoft Copilot Part 1
+title: 4.1 Microsoft Copilot 365 Part 1
 id: 41ms-copilot1
 ---
 

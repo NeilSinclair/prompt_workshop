@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 4.3 Microsoft Copilot Part 3
+title: 4.3 Microsoft Copilot 365 Part 3
 id: 43ms-copilot4
 ---
 

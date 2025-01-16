@@ -11,7 +11,7 @@ id: 32the-researcher
 
 **User message:** 
 
-Please can you pull the top 10 negative reviews for the STIHL iMow RMI 632 P? This is in preparation for a marketing meeting I have soon.
+Please can you pull the top 10 negative reviews for the STIHL iMow RMI 632 PC? This is in preparation for a marketing meeting I have soon.
 
 ---------
 
@@ -19,13 +19,13 @@ Please can you pull the top 10 negative reviews for the STIHL iMow RMI 632 P? Th
 
 ---------
 
-### Task 2: Your Task (Deeper Online Research)
+### Task 2: Deeper Online Research
 
 You can use the internet researcher to compare different models of your products with competitors. I've listed an example below, but you can try different products if you'd like. 
 
 **User message:**  
 
-Please go online and compare the STIHL iMow RMI 632 P with:
+Please go online and compare the STIHL iMow RMI 632 PC with:
 
 - Husqvarna Automower 450X and 
 - the Honda Miimo HRM 3000?
