@@ -28,7 +28,15 @@ Although we still produce best-in-class gasoline tools, part of our strategy goi
 
 We produce products for both commercial and consumer clients, with a focus on high quality products.
 
+--------------
+
 - We give it access to a Sharepoint folder
+
+- We can add in suggestions for other users to use this
+
+- We can share this with other users when we create it
+
+--------------
 
 **User Message:** 
 

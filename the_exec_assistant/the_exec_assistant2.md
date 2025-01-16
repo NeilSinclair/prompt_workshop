@@ -28,7 +28,7 @@ Please can you highlight the top three key points from this attached battery rec
 
 **User message:** ``Step 2``
 
-Based on these points, please can you write an email to Mr Müstermann, our head of materials' operations highlighting the main points and, for each point, asking him to consider how these could relate to our sustainability focus in preparation for our board meeting in the next two weeks.
+With regards to the first point, please can you write an email to Mr Müstermann, our head of materials' operations highlighting the main this point and asking him to consider how this could relate to our sustainability focus in preparation for our board meeting in the next two weeks.
 
 ---------
 

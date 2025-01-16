@@ -30,7 +30,7 @@ Please can you help me to come up with three points that we can base our battery
 
 ### Task 2: Your Task
 
-Get your expert marketing strategist to help you brainstorm ideas for other strategic focuses of the business. Remember to use the system message to give your assistant some content. Either come up with your own idea or see below for ideas to give inspiration:
+Get your expert marketing strategist to help you brainstorm ideas for other strategic focuses of the business. Please load the prompt message we just looked at to give your assistant some context. Either come up with your own idea or see below for ideas to give inspiration:
 
 1. Help me to strategise with three selling points for our "Gasoline Best" strategy promoting our best-in-class gasoline tools to consumer users.
 

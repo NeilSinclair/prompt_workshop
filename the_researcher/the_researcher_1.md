@@ -27,15 +27,15 @@ Please can you compare the two mowers in the attached short research report. Ple
 
 Start a new chat and upload this document: [Employee Satisfaction Report](../../files/employee_satisfaction_report.docx){:target="_blank"}.
 
-Using this report, please identify first the top drivers of employee satisfaction and unhappiness at the company. In a second step step, get your assistant to come up with a set of suggestions for targetting the main issues.
+I want you to get insights from this report to improve the company. I would suggest doing this in two phases, first identifying areas of interest in the report and then using those to create a plan of action.
 
 **Tips and suggestions:**
 
-- You can give your research assistant here a new personality, such as an "Organisational design expert".
+- You can give your research assistant here a new personality, or you could leave it blank. I have added an "Organisational Psychologist" prompt if you want to use that.
 
 - You can ask you assistant to, for example, prioritise the top 3 three points, and give reasons for its prioritisation.
 
 - Asking your assistant to think through this in two steps like a human would - first do step 1 and then do step 2 - this can lead to better results.
 
-- You can ask your research assistant further questions based on its initial analysis 
+- You can ask your research assistant further questions based on its initial analysis. 
 

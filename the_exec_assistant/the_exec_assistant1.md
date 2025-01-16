@@ -22,7 +22,7 @@ Your tone is friendly and concise.
 
 Please can you draft an email for me that includes these topics. Make it light and friendly:
 
-Christmas party next week Friday at 17h00 - 22h00 at the Mariot
+Christmas party next week Friday at 17h00 - 22h00 at the Mariot.
 
 Partners welcome. 
 

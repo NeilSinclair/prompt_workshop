@@ -4,14 +4,14 @@ title: 3.2 The Researcher Part 2
 id: 32the-researcher
 ---
 
-## Using Bing Copilot Online
+## Using Copilot Online
 
 ### Task 1
 
 
 **User message:** 
 
-Please can you pull the top 10 negative reviews for the STIHL iMow RMI 632 PC? This is in preparation for a marketing meeting I have soon.
+Please can you pull the top 10 negative reviews for the STIHL iMow RMI 632 PC for a marketing meeting I have soon.
 
 ---------
 
@@ -32,7 +32,7 @@ Please go online and compare the STIHL iMow RMI 632 PC with:
 
 ---------
 
-**Warning!:** Can we trust the results? On many tries I could not confirm that the sources said what assistant claims they say. I tried something simpler.
+**Warning!:** Can we trust the results? On many tries I could not confirm that the sources said what assistant claims they say, so I tried to be more direct.
 
 Please go online and compare the STIHL iMow RMI 632 PC with the the Honda Miimo HRM 3000? YOU MUST INCLUDE a reference for every piece of information you share. The RMI PC is NOT the same as the RMI P
 
