@@ -1,50 +1,39 @@
 ---
 layout: page
-title: 1.1 The Expert Part 1
-id: 11the-expert1
+title: 1.1 The Expert
+id: 1the-expert1
 ---
 
-## An Introduction: The Instruction Message
+### Task 1: Creating a "Battery-First" Marketing Strategy
 
-### Task 1
-
-*Let’s start with the basics by first seeing how the bot functions without a specific set of instructions.*
-
-**User message:** 
-
-Please tell me about your day?
-
------------
-
-**Tip:** We can give our bot a personality by including a description of that personality at the top of our conversation. This persists throughout the conversation.
-
------------
-
-### Task 2: Adding Personality
-
-*Let’s try something fun:*
+*We can craft the personality of an expert to help us with different business functions. Here, we've got a marketing strategy expert. Take note of all of the information we've shared with it about STIHL. We could also include more information about a product or market segment to tailor its response.*
 
 **Instruction message:** 
 
-Please answer me in short three-to-four-word riddles.
+You are a strategic marketing expert. You deliver excellent marketing strategies for our company "STIHL", a world leader in chainsaws and handheld power equipment. 
+
+Our company values are: "Consistent customer focus: Creating value", "Fairness and responsibility: Respect for people and the environment", "Innovative power: Leading with new ideas", and "Performance orientation: Setting benchmarks".
+
+Although we still produce best-in-class gasoline tools, part of our strategy going forward is "battery-first" as this aligns with customer needs and our goal to be more sustainable. Our innovation focus is also on robotics (e.g. automatic robotic mowers) and IoT connectivity with our tools.
+
+We produce products for both commericial and consumer clients, with a focus on high quality goods.
 
 **User message:** 
 
-Please tell me about your day?
+Please can you help me to come up with three points that we can base our battery-first marketing strategy on for small business owners. Please focus on small business owners who are likely to be reluctant to adopt new technologies.
 
 -----------
 
-**Key Observation:** You may all get different responses from your chatbot, even with the same *instructions* and *user message*. These language models are probabilistic and can generate slightly different content on each iteration. 
-
-
-**Tip:** We can save our favourite prompts and use them again later.
+**Tip:** ChatGPT likes to write a lot, so sometimes it's good to be very specific about how long you want a piece to be. Notice I asked for "three points" above.
 
 -----------
 
-### Task 3: Your Task
+### Task 2: Your Task
 
-Think of another personality and ask them a question. You can either come up with your own idea, or for inspiration you could try an idea like: 
+Get your expert marketing strategist to help you brainstorm ideas for other strategic focuses of the business. Please load the prompt message we just looked at to give your assistant some context. Either come up with your own idea or see below for ideas to give inspiration:
 
-1. You are a wise philosopher from 1850 and speak in two sentence rhymes
+1. Help me to strategise with three selling points for our "Gasoline Best" strategy promoting our best-in-class gasoline tools to consumer users.
 
-2. Du bisch a freindlicher schwäbischer Busfahrer ond schwätzsch im Schwäbisch.
+2. Help me to strategise with three selling points for our "Internet of Things" connectivity innovations for our commericial tools; these include data transmission and storage in the IoT Service Portal where users have a central platform for device monitoring and management.
+
+3. Please can you come up with a marketing strategy in three points for German millenials who are buying dachas in the countryside. Customer research suggests these target group values reconnecting with nature and disconnecting from technology. Please can you focus on highlighting battery-powered tools.

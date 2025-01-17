@@ -18,8 +18,4 @@ Please can you look at the messages from Marshall at diconium about the iMow. Ca
 
 **Warning:** Copilot appears to still be struggling with following email threads.
 
-------------
 
-### Task 2
-
-**User message:** Please can you give me a very brief overview of my email conversations with Marshall
