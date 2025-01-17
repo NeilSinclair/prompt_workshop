@@ -12,9 +12,7 @@ I will create a new chat and add the following report with information on the St
 
 We can get our assistant to compare information in documents to uncover insights. I start by uploading the document to the chat.
 
-**Instruction message:** 
-
-You are a helpful research assistant for me, Neil Sinclair at STIHL.
+*The instruction message isn't necessary*
 
 **User message:** 
 
@@ -35,7 +33,7 @@ I want you to get insights from this report to improve the company. I would sugg
 
 - You can ask you assistant to, for example, prioritise the top 3 three points, and give reasons for its prioritisation.
 
-- Asking your assistant to think through this in two steps like a human would - first do step 1 and then do step 2 - this can lead to better results.
+- Asking your assistant to think through this in two steps like a human would - first do step 1 and then do step 2 - can lead to better results.
 
 - You can ask your research assistant further questions based on its initial analysis. 
 

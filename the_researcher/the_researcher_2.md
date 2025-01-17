@@ -11,7 +11,7 @@ id: 32the-researcher
 
 **User message:** 
 
-Please can you go online and find me the top 10 negative feedback points for the STIHL MSA 300 C-O for a marketing meeting I have soon.
+Please can you go online and find me the top 10 negative feedback points for the STIHL MSA 300 C-O chainsaw for a marketing meeting I have soon.
 
 ---------
 
@@ -25,13 +25,13 @@ You can use the internet researcher to compare different models of your products
 
 **User message:**  
 
-Please can you compare the STIHL MSA 300 C-O with the Husqvarna 540i XP and the Milwaukee M18 Fuel 16" Chainsaw Kit
+Please can you compare the STIHL MSA 300 C-O chainsaw with the Husqvarna 540i XP and the Milwaukee M18 Fuel 16" Chainsaw Kit
 
 ---------
 
 **Warning!:** Can we trust the results? Sometimes the results look good, but they are wrong. Here is an example:
 
-Please go online and compare the STIHL iMow RMI 632 PC with the Husqvarna Automower 450X and the Honda Miimo HRM 3000?P
+Please go online and compare the STIHL iMow RMI 632 PC with the Husqvarna Automower 450X and the Honda Miimo HRM 3000?
 
 ---------
 
