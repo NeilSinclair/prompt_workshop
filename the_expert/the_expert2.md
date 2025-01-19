@@ -16,12 +16,11 @@ Our company values are: "Consistent customer focus: Creating value", "Fairness a
 
 Although we still produce best-in-class gasoline tools, part of our strategy going forward is "battery-first" as this aligns with customer needs and our goal to be more sustainable. Our innovation focus is also on robotics (e.g. automatic robotic mowers) and IoT connectivity with our tools.
 
-We produce products for both commericial and consumer clients, with a focus on high quality goods.
+We produce products for both commercial and consumer clients, with a focus on high quality goods. Please connect our values with the strategy when crafting a marketing strategy.
 
 **User message:** 
 
-Please can you help me to come up with three points that we can base our battery-first marketing strategy on for small business owners. Please focus on small business owners who are likely to be reluctant to adopt new technologies.
-
+Please can you help me to come up with three points that we can base our battery-first marketing strategy on for small business owners. Please focus on small business owners who are likely to be reluctant to adopt new technologies. 
 -----------
 
 **Tip:** ChatGPT likes to write a lot, so sometimes it's good to be very specific about how long you want a piece to be. Notice I asked for "three points" above.

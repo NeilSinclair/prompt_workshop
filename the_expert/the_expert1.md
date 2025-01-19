@@ -50,3 +50,7 @@ I need you to answer me in two stanza rhymes ----------
 How are you?
 
 -----------
+
+### Task 3: Your task
+
+Please load either of the two prompts in Microsoft Copilot and ask it a question.

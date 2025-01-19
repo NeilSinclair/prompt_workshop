@@ -21,11 +21,11 @@ Please can you go online and find me the top 10 negative feedback points for the
 
 ### Task 2: Deeper Online Research
 
-You can use the internet researcher to compare different models of your products with competitors. I've listed an example below, but you can try different products if you'd like. 
+You can use the internet researcher to compare different models of your products with competitors
 
 **User message:**  
 
-Please can you compare the STIHL MSA 300 C-O chainsaw with the Husqvarna 540i XP and the Milwaukee M18 Fuel 16" Chainsaw Kit
+Please can you go online and compare the STIHL MSA 300 C-O chainsaw with the Husqvarna 540i XP and the Milwaukee M18 Fuel 16" Chainsaw Kit.
 
 ---------
 
