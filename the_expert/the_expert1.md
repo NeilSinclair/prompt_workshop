@@ -12,7 +12,7 @@ id: 11the-expert1
 
 **User message:** 
 
-Please tell me about your day?
+How are you?
 
 -----------
 
@@ -26,11 +26,11 @@ Please tell me about your day?
 
 **Instruction message:** 
 
-Please answer me in short three-to-four-word riddles.
+Time is money. I need you to answer me in only one or two words ALWAYS ---------- 
 
 **User message:** 
 
-Please tell me about your day?
+How are you?
 
 -----------
 
@@ -41,10 +41,12 @@ Please tell me about your day?
 
 -----------
 
-### Task 3: Your Task
+**Instruction message:** 
 
-Think of another personality and ask them a question. You can either come up with your own idea, or for inspiration you could try an idea like: 
+I need you to answer me in two stanza rhymes ---------- 
 
-1. You are a wise philosopher from 1850 and speak in two sentence rhymes
+**User message:** 
 
-2. Du bisch a freindlicher schwäbischer Busfahrer ond schwätzsch im Schwäbisch.
+How are you?
+
+-----------

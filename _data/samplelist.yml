@@ -1,0 +1,21 @@
+toc:
+  - title: Home
+    subfolderitems:
+      - page: Home 
+        url: /index.html
+
+  - title: The Expert
+    subfolderitems:
+      - page: The Expert Part 1
+        url: /the_expert/the_expert1.html
+      - page: The Expert Part 2
+        url: /the_expert/the_expert2.html
+      - page: The Expert Part 3
+        url: /the_expert/the_expert3.html
+      - page: The Expert Part 4
+        url: /the_expert/the_expert_capstone.html
+
+  - title: The Executive Assistant
+    subfolderitems:
+      - page: The Executive Assistant Part 1
+        url: /the_exec_assistant/the_exec_assistant1.html

@@ -4,7 +4,7 @@ title: 4.1 Microsoft Copilot 365 Part 1
 id: 41ms-copilot1
 ---
 
-## The Microsoft Copilot: Using Microsoft Copilot to Create an Assistant
+## Using Microsoft Copilot to Create an Assistant
 
 
 ### Task 1
