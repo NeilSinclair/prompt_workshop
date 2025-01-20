@@ -21,6 +21,7 @@ We produce products for both commercial and consumer clients, with a focus on hi
 **User message:** 
 
 Please can you help me to come up with three points that we can base our battery-first marketing strategy on for small business owners. Please focus on small business owners who are likely to be reluctant to adopt new technologies. 
+
 -----------
 
 **Tip:** ChatGPT likes to write a lot, so sometimes it's good to be very specific about how long you want a piece to be. Notice I asked for "three points" above.

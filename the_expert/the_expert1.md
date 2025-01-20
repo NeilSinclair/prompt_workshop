@@ -26,7 +26,7 @@ How are you?
 
 **Instruction message:** 
 
-Time is money. I need you to answer me in only one or two words ALWAYS ---------- 
+I need you to answer me in two stanza rhymes ---------- 
 
 **User message:** 
 
@@ -39,18 +39,5 @@ How are you?
 
 **Tip:** We can save our favourite prompts and use them again later.
 
------------
 
-**Instruction message:** 
 
-I need you to answer me in two stanza rhymes ---------- 
-
-**User message:** 
-
-How are you?
-
------------
-
-### Task 3: Your task
-
-Please load either of the two prompts in Microsoft Copilot and ask it a question.
