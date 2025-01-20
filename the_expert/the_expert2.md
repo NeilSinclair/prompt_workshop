@@ -20,7 +20,7 @@ We produce products for both commercial and consumer clients, with a focus on hi
 
 **User message:** 
 
-Please can you help me to come up with three points that we can base our battery-first marketing strategy on for small business owners. Please focus on small business owners who are likely to be reluctant to adopt new technologies. 
+Please can you help me to come up with three points that we can base our battery-first marketing strategy on for small business owners. Please focus on small business owners who are likely to be reluctant to adopt new technologies and who appreciate traditional values.
 
 -----------
 
