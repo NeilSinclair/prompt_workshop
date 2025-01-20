@@ -44,10 +44,4 @@ Please create a new chat and then download the additional data for this task her
 
 - As a second step, please get your assistant to write an email to Robert highlighting his agreed upon tasks. Please also suggest a deadline for these tasks. 
 
-**Instruction message:** 
 
-*Leave Blank*
-
-**User message:** 
-
-Your message to your assistant here
