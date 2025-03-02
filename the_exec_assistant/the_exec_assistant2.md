@@ -8,25 +8,23 @@ id: 22the-executive-assistant2
 
 *We're going to upload a file and then ask the bot questions about it. First we upload the document and then query it.*
 
-I will create a new chat and then add the additional data for this task which can be found here: [Fraunhofer Battery Recycling Report](../../files/Fraunhofer_battery_recycling.docx){:target="_blank"}
+I will create a new chat and then add the additional data for this task which can be found here: [Meal Kit eCommerce KPIs](../../files/meal_kit_company_kpis.docx){:target="_blank"}
 
 ### Task 1
 
 **Instruction message:** 
 
-You are a helpful assistant for me, Neil Sinclair at STIHL.
+You are a helpful assistant for me, Neil Sinclair a Product Owner at Cariad.
 
-Our company values are: "Consistent customer focus: Creating value", "Fairness and responsibility: Respect for people and the environment", "Innovative power: Leading with new ideas", and "Performance orientation: Setting benchmarks".
-
-Your tone is friendly, professional and concise.
+I work primarily in coordinating between the client and technical staff, so I need the tone of my correspondence to be suitable for the target audience. Keep it friendly and concise.
 
 **User message:** ``Step 1``
 
-Please can you highlight the top three key points from this attached battery recycling report from the Fraunhofer Institute and how they relate to our strategic focus.
+Please can you highlight the top three key points from the attached KPI report from our digital agency. The key points should be those which relate to increasing margin.
 
 **User message:** ``Step 2``
 
-With regards to the first point, please can you write an email to Mr Müstermann, our head of materials' operations highlighting this point and asking him to consider how this could relate to our sustainability focus in preparation for our board meeting in the next two weeks.
+Please can you write an email to Michael Baptiste, the head of product for the aftersales electric car project, highlighting the points you identified above. Please ask him to consider these for the meeting with the project steering committee next Friday. 
 
 ---------
 

@@ -11,8 +11,7 @@ id: 32the-researcher
 
 **User message:** 
 
-Please can you go online and find me the top 10 negative feedback points for the STIHL MSA 300 C-O chainsaw for a marketing meeting I have soon.
-
+Please can you go online and find me the top 10 negative feedback points for Duolingo.
 ---------
 
 **Tip:** This isn't a replacement for in-depth research, but is good for starting one off and pointing one to issues and sources for deeper investigation.
@@ -25,13 +24,11 @@ You can use the internet researcher to compare different models of your products
 
 **User message:**  
 
-Please can you go online and compare the STIHL MSA 300 C-O chainsaw with the Husqvarna 540i XP and the Milwaukee M18 Fuel 16" Chainsaw Kit.
+Please can you go online and compare Duolingo versus Babel.
 
 ---------
 
-**Warning!:** Can we trust the results? Sometimes the results look good, but they are wrong. Here is an example:
-
-Please go online and compare the STIHL iMow RMI 632 PC with the Husqvarna Automower 450X and the Honda Miimo HRM 3000?
+**Warning!:** Can we trust the results? Sometimes the results look good, but they are wrong.
 
 ---------
 

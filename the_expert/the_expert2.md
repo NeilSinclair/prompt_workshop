@@ -4,36 +4,42 @@ title: 1.2 The Expert Part 2
 id: 12the-expert2
 ---
 
-### Task 1: Creating a "Battery-First" Marketing Strategy
+### Task 1: Delegating one of your tasks
 
-*We can craft the personality of an expert to help us with different business functions. Here, we've got a marketing strategy expert. Take note of all of the information we've shared with it about STIHL. We could also include more information about a product or market segment to tailor its response.*
+*We can craft the personality and skillset of an AI to do a specific part of our job, for example working on the product backlog given a set of features. The more information we give the AI to shape it's role and task, the more useful it will be.*
 
 **Instruction message:** 
 
-You are a strategic marketing expert. You deliver excellent marketing strategies for our company "STIHL", a world leader in chainsaws and handheld power equipment. 
+You are an expert on the Product Owner (PO) role in Agile project organization at Cariad SE. You help POs with backlog management tasks, such as writing user stories and acceptance criteria when given a digital product and set of desired features. You focus is on writing clear user stories that always highlight the user value in the stories you create. 
 
-Our company values are: "Consistent customer focus: Creating value", "Fairness and responsibility: Respect for people and the environment", "Innovative power: Leading with new ideas", and "Performance orientation: Setting benchmarks".
-
-Although we still produce best-in-class gasoline tools, part of our strategy going forward is "battery-first" as this aligns with customer needs and our goal to be more sustainable. Our innovation focus is also on robotics (e.g. automatic robotic mowers) and IoT connectivity with our tools.
-
-We produce products for both commercial and consumer clients, with a focus on high quality goods. Please connect our values with the strategy when crafting a marketing strategy.
+You will be given a list of features. For each feature, you must write the relecant user stories and acceptance criteria. Once you have doen this you should divide the task by the different functions that must work on it, listing all their tasks as they relate to the acceptance criteria.
 
 **User message:** 
 
-Please can you help me to come up with three points that we can base our battery-first marketing strategy on for small business owners. Please focus on small business owners who are likely to be reluctant to adopt new technologies and who appreciate traditional values.
+Can you help me to come up with three user stories and their associated acceptance criteria for the following features on a meal-kit delivery company’s (similar to Hello Fresh) website? This will be for the landing page. The features are: 
+
+Search bar
+Images carousel of popular meals at top of page
+Links to various meal type categories eg. breakfast/lunch/dinner, type of cuisine, hearty/sweet, primary ingredients (pasta/rice/grain/potatoes), etc…
+
 
 -----------
 
-**Tip:** ChatGPT likes to write a lot, so sometimes it's good to be very specific about how long you want a piece to be. Notice I asked for "three points" above.
+**Tip:** ChatGPT likes to write a lot, so sometimes it's good to be very specific about how long you want a piece to be. Notice I asked for "three user stories" above.
 
 -----------
 
 ### Task 2: Your Task
 
-Get your expert marketing strategist to help you brainstorm ideas for other strategic focuses of the business. Please load the prompt message we just looked at to give your assistant some context. Either come up with your own idea or see below for ideas to give inspiration:
+Get your expert backlog groomer to hep you to write features for another website or digital product. Please use the prompt (instruction) message we just looked at to give your assistant some context. Either come up with your own idea or see below for ideas to give inspiration:
 
-1. Help me to strategise with three selling points for our "Gasoline Best" strategy promoting our best-in-class gasoline tools to consumer users.
+1. Web app that helps you find nearby stores that sell a product you’re looking. The features could be something like:
+- Product filters
+- Distance/travel filters
+- Specific map features
 
-2. Help me to strategise with three selling points for our "Internet of Things" connectivity innovations for our commericial tools; these include data transmission and storage in the IoT Service Portal where users have a central platform for device monitoring and management.
+2. User portal for a banking website
+- Layout of account overview
+- Links to services related to account
+- Links to actions the user can take (paying bills, transfer money between accounts, domestically, internationally, etc…)
 
-3. Please can you come up with a marketing strategy in three points for German millenials who are buying dachas in the countryside. Customer research suggests this target group values reconnecting with nature and disconnecting from technology. Please can you focus on highlighting battery-powered tools.

@@ -12,25 +12,20 @@ id: 21the-executive-assistant1
 
 **Instruction message:** 
 
-You are a helpful assistant for me, Neil Sinclair at STIHL.
+You are a helpful assistant for me, Neil Sinclair a Product Owner at Cariad.
 
-Our company values are: "Consistent customer focus: Creating value", "Fairness and responsibility: Respect for people and the environment", "Innovative power: Leading with new ideas", and "Performance orientation: Setting benchmarks".
-
-Your tone is friendly, professional and concise.
+I work primarily in coordinating between the client and technical staff, so I need the tone of my correspondence to be suitable for the target audience. Keep it friendly and concise.
 
 **User message:** 
 
-Please can you draft an email for me that includes these topics. Make it light and friendly:
+Please can you draft an email for me that includes these topics to the frontend developer regarding the client feedback on their work.
 
-Christmas party next week Friday at 17h00 - 22h00 at the Mariot.
+- We’ve received feedback from client about layout design
+- They like the overall design
+- They want to simplify the number of actions visible
+- They want to add colours that reflect the company branding
+- It shouldn’t be garish, the goal is simple and sleek
 
-Partners welcome. 
-
-Some divisions doing secret santa.
-
-Joke about not drinking too much and embarrassing yourself. 
-
-Thanks for good work this year. Happy holidays.
 
 ------------
 
@@ -44,14 +39,10 @@ Thanks for good work this year. Happy holidays.
 
 ### Task 2: Your Task
 
-Get your assistant to write an email for you based on a few points. You can come up with your own points, or use these examples as inspiration to get your ideas flowing:
+Get your assistant to write an email for you based on a few points. You can use these examples as inspiration if you need some ideas, but please remember to add some points to help guide the AI:
 
-- Address the message to the senior managers.
-
-- We have just opened a new production facility in Romania and will be doing a management tour next Wednesday.
-
-- Please book transportation and accomodation to arrive on Tuesday evening on leave on Thursday morning.
-
-- Please prepare relevant questions for the management of the facility.
+- Email following up with a client to ask for the information that was requested last week
+- Email informing a client that the sprint is behind schedule, due to unforeseen technical difficulties, and that some story points will need to be extended into the next sprint
+- Email informing the developers about a client’s expectations, which you are worried might not be feasible
 
 Feel free to update the instruction message to change the tone / length / language of the message. 
