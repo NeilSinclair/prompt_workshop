@@ -46,4 +46,6 @@ Get your assistant to write an email for you based on a few points. You can use 
 - Email informing a client that the sprint is behind schedule, due to unforeseen technical difficulties, and that some story points will need to be extended into the next sprint
 - Email informing the developers about a client’s expectations, which you are worried might not be feasible
 
-Feel free to update the instruction message to change the tone / length / language of the message. 
+Feel free to update the instruction message to change the tone / length / language of the message.
+
+Post your email to the Miro board under "The Exec Assistant Part 1".

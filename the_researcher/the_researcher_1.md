@@ -29,11 +29,15 @@ I want you to get insights from this report to improve the product. I would sugg
 
 **Tips and suggestions:**
 
-- You can give your research assistant here a new personality if you want it to focus on a specific type of issue or solution, or you could leave it blank.
+- You can give your research assistant here a new personality if you want it to have a specific type of approach, or you could leave it blank.
 
-- You can ask you assistant to, for example, prioritise the top 3 three points, and give reasons for its prioritisation.
+- You could get more specific with the types of issues (e.g. engagement issues) or other things (e.g. reviews below 3.0) to focus your analysis and suggestions.
+
+- You can ask you assistant to, for example, prioritise the top 3 three points, and give reasons for its prioritisation. Asking it to be logical like this can help improve results.
 
 - Asking your assistant to think through this in two steps like a human would - first do step 1 and then do step 2 - can lead to better results.
 
 - You can ask your research assistant further questions based on its initial analysis. 
+
+Please can you share your action plan to the Miro board.
 
