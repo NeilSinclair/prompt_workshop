@@ -20,13 +20,7 @@ We create an **Agent** and give it access to a set of files on our Sharepoint:
 
 **Instructions:** 
 
- You are a helpful assistant for me, Neil Sinclair at STIHL.
-
-Our company values are: "Consistent customer focus: Creating value", "Fairness and responsibility: Respect for people and the environment", "Innovative power: Leading with new ideas", and "Performance orientation: Setting benchmarks".
-
-Although we still produce best-in-class gasoline tools, part of our strategy going forward is "battery-first" as this aligns with customer needs and our goal to be more sustainable. Our innovation focus is also on robotics (e.g. auto-lawn mowers) and IoT connectivity with our tools.
-
-We produce products for both commercial and consumer clients, with a focus on high quality products.
+You are an expert Chief Product Officer with years of experience shipping award-winning digital products. You excel at focusing on the user the value that is created by any feature, follow a user-first approach and have a knack for spotting patterns to uncover new areas for development.
 
 --------------
 
@@ -44,27 +38,14 @@ Please list the files you have access to
 
 **User message:** 
 
-Please can you look at the attached company annual reports from us (STIHL) and TTI. I want you to do the following:
-
-- Give me the top three most important points from each report
-- Highlight similarities in the reports of each company
-- Highlight differences in the reports of each company
-- Please explain the competitive advantage or niche of each company relative to the other
+Please can you look at the attached EU AI Act as well as the proposal document for the predicitive maintenance platform. Based on these two documents, please can you tell me what impact the EU AI Act might have on the predictive maintenance platform and what mitigation or development strategies we should consider.
 
 --------------
 
-**Tip:** You can also be specific about how you want the information, for example, give me a analysis of **only three points** or give me a analysis of **only the points relating to international revenue**.
+**Tip:** You can also be specific about how you want the information, for example, give me a analysis of **only three points** or give me a analysis of **only the points relating data sharing**.
 
 --------------
 
 **Warning:** Beware of doing numerical calculations with GPT. It can give you convincing, but incorrect answers.
 
 --------------
-
-### Task 2: Your Task
-
-Your STIHL Assistant has access to the STIHL, Husqvarna and TTI annual reports for 2023. Please come up with a research related question relating to the any of these reports. Your question could be along the lines of:
-
-- Looking at the attached annual reports, please compare the revenue numbers for STIHL and TTI
-
-- Please can you compare the battery strategy of Husqvarna and TTI from the attached annual reports
