@@ -12,6 +12,7 @@ id: 32the-researcher
 **User message:** 
 
 Please can you go online and find me the top 10 negative feedback points for Duolingo.
+
 ---------
 
 **Tip:** This isn't a replacement for in-depth research, but is good for starting one off and pointing one to issues and sources for deeper investigation.
