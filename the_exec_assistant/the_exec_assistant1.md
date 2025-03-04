@@ -18,7 +18,7 @@ I work primarily in coordinating between the client and technical staff, so I ne
 
 **User message:** 
 
-Please can you draft an email for me that includes these topics to the frontend developer regarding the client feedback on their work.
+Please can you draft an email for me that includes these topics to the frontend developer, Michael regarding the client feedback on their work.
 
 - We’ve received feedback from client about layout design
 - They like the overall design
@@ -26,6 +26,7 @@ Please can you draft an email for me that includes these topics to the frontend 
 - They want to add colours that reflect the company branding
 - It shouldn’t be garish, the goal is simple and sleek
 
+Please can you suggest next steps to the developer.
 
 ------------
 
