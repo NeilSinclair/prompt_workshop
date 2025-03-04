@@ -11,7 +11,7 @@ This website contains all of the content for the Cariad DX One Prompt Engineerin
 
 ------------
 
-We will be sharing our results from the exercises on **Miro**. You can access the board here [Miro](https://miro.com/app/board/uXjVLbkGLk4=/?share_link_id=23847195721).
+We will be sharing our results from the exercises on **Miro**. You can access the board here [Miro](https://miro.com/app/board/uXjVLbkGLk4=/?share_link_id=23847195721){:target="_blank"}.
 
 To test that we can all use it, please login (password to be provided by me) and copy the below:
 
