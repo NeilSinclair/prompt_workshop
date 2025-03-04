@@ -17,7 +17,7 @@ To test that we can all use it, please login (password to be provided by me) and
 
 **I'm on the Miro Board!**
 
-and paste it into the *Paste your test here* area on the board.
+and paste it into the *Paste your test here* area at the top of the board. **Please paste only as text.**
 
 ------------
 
