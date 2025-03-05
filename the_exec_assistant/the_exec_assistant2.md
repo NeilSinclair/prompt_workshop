@@ -4,13 +4,11 @@ title: 2.2 The Exec Assistant Part 2
 id: 22the-executive-assistant2
 ---
 
-## The Executive Assistant: Working with Files
-
-*We're going to upload a file and then ask the bot questions about it. First we upload the document and then query it.*
-
-I will create a new chat and then add the additional data for this task which can be found here: [Meal Kit eCommerce KPIs](../../files/meal_kit_company_kpis.docx){:target="_blank"}
+## The Executive Assistant: Checking your work
 
 ### Task 1
+
+*You can have your executive assistant check that an email you've written is suitable for the audience.*
 
 **Instruction message:** 
 
@@ -18,28 +16,24 @@ You are a helpful assistant for me, Neil Sinclair a Product Owner at Cariad.
 
 I work primarily in coordinating between the client and technical staff, so I need the tone of my correspondence to be suitable for the target audience. Keep it friendly and concise.
 
-**User message:** ``Step 1``
+**User message:** 
 
-Please can you highlight the top three key points from the attached KPI report from our digital agency. The key points should be those which relate to increasing margin.
+Please can you make the tone of this message more soft?
 
-**User message:** ``Step 2``
+Message to all of the managers:
 
-Please can you write an email to Michael Baptiste, the head of product for the aftersales electric car project, highlighting the points you identified above. Please ask him to consider these for the meeting with the project steering committee next Friday. 
+Production in the company is at it's lowest ever. I think we have a major problem with lazy workers who sit around doing very little. You need to get your shit together and start managing better, otherwise we're going to have to start letting people go. Do you want that on your conscience?
 
----------
-
-**Important information:** In Bing Copilot, the file size limit is 1MB and only one file can be uploaded at at time.
-
----------
+-----------
 
 ### Task 2: Your Task
 
-In MS Teams you can transcribe meetings. You can then give the meeting transcription to your assistant to create the meeting minutes and write an email to participants indicating their agreed upon tasks. *Note, you don't require an Instruction message here as no context is needed.*
+Get your assistant to take an angry message that you've written and make it more suitable for an audience. Here's the situation:
 
-Please create a new chat and then download the additional data for this task here: [Meeting Transcription](../../files/data_product_factory_workshop_planning.docx){:target="_blank"}
+- the new working student just pushed a change to production that has broken your data sharing platform. He has no idea how to roll back the back the change and doesn't actually know what he's done. The senior dev just went on summer vacation. You need to get your boss's boss's boss to pull resources off another project urgently otherwise this one is likely to be cancelled as soon as someone at the client brand finds out what has happened. You're freaking out and wish you'd rather studied marine biology and were on a boat somewhere now.
 
-- Please get your assistant to create the meeting minutes from this transcript, including next actions each participant needs to do.
+- please write the angry email begging your boss's boss's boss to get the resources you need. When you get your bot to rewrite it, make sure the tone is convincing and level for her, but make your original email (before the bot changes it) outrageous.
 
-- As a second step, please get your assistant to write an email to Robert highlighting his agreed upon tasks. Please also suggest a deadline for these tasks. 
+Feel free to update the system message to change the tone / length / language of the message to give it your own style. 
 
-
+Please share your assistant's email on the Miro board under "The Exec Assistant Part 2"

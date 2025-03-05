@@ -14,7 +14,7 @@ I'll open a new Word document and get Copilot to help generate content.
 
 **User message:** 
 
-Our R&D team has just developed a new battery that lasts 24 hours and charges in 5 minutes. Can you help me to come up with a press release for this?
+We are working on a data platform for sharing sensor data from cars. Please can you come up with a set of questions I should ask interviewees for understand product requirements.
 
 ---------
 
@@ -26,10 +26,10 @@ Our R&D team has just developed a new battery that lasts 24 hours and charges in
 
 *You can give files to CoPilot to help it with its generation of content*
 
-I'll open a new Word document and get Copilot to help generate content, **using a file for reference**. Here I link the Stiga A3000 and iMow RMI 632 comparison file. 
+I'll open a new Word document and get Copilot to help generate content, **using a file for reference**. Here I have created a document outlining the (made up) profile of the users of our platform.
 
 **User message:** 
 
-Please generate a short piece of copy for our website highlighting all of the great features of the STIHL iMow RMI632. WITHOUT mentioning the competitor product, highlight the advantages our product has over the Stiga A3000.
+We are working on a data platform for sharing sensor data from cars. Please can you come up with a set of questions I should ask interviewees for understand product requirements. Please consider the profile of the users in the attached document when writing the questions.
 
 
