@@ -14,7 +14,7 @@ I'll open a new Word document and get Copilot to help generate content.
 
 **User message:** 
 
-We are working on a data platform for sharing sensor data from cars. Please can you come up with a set of questions I should ask interviewees for understand product requirements.
+We are working on a data platform for sharing sensor data from cars. Please can you outline the key features of this platform for a planning document?
 
 ---------
 
@@ -30,6 +30,6 @@ I'll open a new Word document and get Copilot to help generate content, **using 
 
 **User message:** 
 
-We are working on a data platform for sharing sensor data from cars. Please can you come up with a set of questions I should ask interviewees for understand product requirements. Please consider the profile of the users in the attached document when writing the questions.
+We are working on a data platform for sharing sensor data from cars. Please can you outline the key features of this platform for a planning document? Please consider the profile of the users in the attached document when writing the document.
 
 
