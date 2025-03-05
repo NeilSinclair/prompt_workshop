@@ -8,7 +8,7 @@ id: 41advanced
 
 *Let's bring this all together and create an Expert who has access to company-specific information in a document and who can come up with a plan for us given this data.*
 
-Create a new chat and upload this document: [Employee Feedback](../../files/Employee Satisfaction Report.docx){:target="_blank"}. 
+Create a new chat and upload this document: [Employee Feedback](../../files/employee_satisfaction_report.docx){:target="_blank"}. 
 
 - Upload a document
 
