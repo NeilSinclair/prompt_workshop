@@ -39,5 +39,5 @@ I want you to get insights from this report to improve the product. I would sugg
 
 - You can ask your research assistant further questions based on its initial analysis. 
 
-Please can you share your action plan to the Miro board.
+Please can you share your action plan to the Miro board under "The Researcher Part 1".
 

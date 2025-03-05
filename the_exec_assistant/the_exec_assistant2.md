@@ -36,4 +36,4 @@ Get your assistant to take an angry message that you've written and make it more
 
 Feel free to update the system message to change the tone / length / language of the message to give it your own style. 
 
-Please share your assistant's email on the Miro board under "The Exec Assistant Part 2"
+Please share your assistant's email on the Miro board under "The Executive Assistant Part 2"

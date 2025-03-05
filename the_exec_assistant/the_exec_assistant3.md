@@ -42,4 +42,5 @@ Please create a new chat and then download the additional data for this task her
 
 - As a second step, please get your assistant to write an email to Robert highlighting his agreed upon tasks. Please also suggest a deadline for these tasks. 
 
+Please share on the Miro Board under "The Executive Assistant Part 3"
 

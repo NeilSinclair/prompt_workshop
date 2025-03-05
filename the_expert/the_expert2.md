@@ -51,5 +51,5 @@ Get your expert backlog groomer to hep you to write features for another website
 - Links to services related to account
 - Links to actions the user can take (paying bills, transfer money between accounts, domestically, internationally, etc…)
 
-**Please get your bot to prioritise the most important user story after it's been written and share that to the Miro board**
+**Please get your bot to prioritise the most important user story after it's been written** and share that to the Miro board in "The Expert" block.
 

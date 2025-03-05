@@ -48,4 +48,4 @@ Get your assistant to write an email for you based on a few points. You can use 
 
 Feel free to update the instruction message to change the tone / length / language of the message.
 
-Post your email to the Miro board under "The Exec Assistant Part 1".
+Post your email to the Miro board under "The Executive Assistant Part 1".
