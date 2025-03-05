@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 4.1 Microsoft Copilot 365 Part 1
-id: 41ms-copilot1
+title: 5.1 Microsoft Copilot 365 Part 1
+id: 51ms-copilot1
 ---
 
 ## Using Microsoft Copilot to Create an Assistant

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 4.3 Microsoft Copilot 365 Part 3
-id: 43ms-copilot4
+title: 5.3 Microsoft Copilot 365 Part 3
+id: 53ms-copilot4
 ---
 
 ## The Microsoft Copilot: Co-Creating Content

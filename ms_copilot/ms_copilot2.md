@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 4.2 Microsoft Copilot 365 Part 2
-id: 42ms-copilot2
+title: 5.2 Microsoft Copilot 365 Part 2
+id: 52ms-copilot2
 ---
 
 ## The Microsoft Copilot: Interacting with your Emails
