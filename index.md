@@ -3,23 +3,23 @@ layout: default
 id: home
 ---
 
-## Welcome to the Cariad DX One Prompt Engineering Workshop
+## Welcome to the Product Manager-focused Prompt Engineering Workshop
 
-This website contains all of the content for the Cariad DX One Prompt Engineering Workshop on 06.03.2025. We will work with examples in **Microsoft 365 Copilot**. You can access the link here:
+This website contains all of the content for a Prompt Engineering Workshop for Product Owners and Managers. We will work with examples in **Microsoft 365 Copilot**. You can access the link here:
 
 [Microsoft 365 Copilot](https://www.microsoft365.com/chat?auth=2){:target="_blank"}
 
 ------------
 
-We will be sharing our results from the exercises on **Miro**. You can access the board here [Miro](https://miro.com/app/board/uXjVLbkGLk4=/?share_link_id=23847195721){:target="_blank"}.
+### Notes on the Workshop
 
-To test that we can all use it, please login (password to be provided by me) and copy the below:
+- The workshop takes participants from zero - as if they know almost nothing about LLMs and prompting - to (minor) hero, doing nifty advanced research with MS Coplit. 
 
-**I'm on the Miro Board!**
+- The workshop is designed to be interactive, so you learn more - and have more fun - if you work on the exercises as the end of each section.
 
-and paste it into the *Paste your test here* area at the top of the board. **Please paste only as text.**
+- All of the examples here are intended to be practical and usable.
 
-------------
+- Each section builds on the knowledge of the sections before. Start with _The Expert_, move onto _The Executive Assistant_ then _The Researcher_ and end with the _Advanced_ exercises.
 
 Want to stay in touch? You can find me on LinkedIn [here](https://www.linkedin.com/in/neil-sinclair-64854555/){:target="_blank"}
 
