@@ -19,7 +19,7 @@ This website contains all of the content for a Prompt Engineering Workshop for P
 
 - All of the examples here are intended to be practical and usable.
 
-- Each section builds on the knowledge of the sections before. Start with _The Expert_, move onto _The Executive Assistant_ then _The Researcher_ and end with the _Advanced_ exercises.
+- Each section builds on the knowledge of the sections before. Start with _The Expert_, move onto _The Executive Assistant_ then _The Researcher_ and end with the _Advanced_ exercises. Finally, there is one example for using the Agent mode in Copilot for these exercises.
 
 Want to stay in touch? You can find me on LinkedIn [here](https://www.linkedin.com/in/neil-sinclair-64854555/){:target="_blank"}
 
